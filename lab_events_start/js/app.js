@@ -30,7 +30,7 @@ const handleFormSubmit = function (event) {
 };
 
 const handleDeleteButton = function () {
-  document.getElementById("reading-list").innerHTML = "";
+  document.getElementById("reading-list").innerHTML = "test";
 }
 
   
